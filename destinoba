@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agência Destino Bahia</title>
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="_css/estilo.css"/>
+
+</head>
+
+<body>
+    <div class="container-fluid" id="interface">
+
+        <header id="cabecalho-secundario">
+            <h1>Agência Destinos Bahia </h1>
+            
+<!--inicio navbar-->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="C:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\home.html">Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Alterna navegação">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link active" href="C:\Users\erica\OneDrive\Documentos\DestinosBahia\index.html\contato.html">Contato</a>
+        <a class="nav-item nav-link" href="C:\Users\erica\OneDrive\Documentos\DestinosBahia\index.html\destinosba.html">Destinos</a>
+        <a class="nav-item nav-link" href="C:\Users\erica\OneDrive\Documentos\DestinosBahia\index.html\promoçoes.html">Promoções</a>
+        <a class="nav-item nav-link" href="C:\Users\erica\OneDrive\Documentos\DestinosBahia\index.html\cadastro.html">Cadastro</a>
+      </div>
+    </div>
+  </nav>
+
+<!--final navbar-->
+        <!-- INÍCIO DESTINOS -->
+<div class="container mb-2">
+
+        <div class="row mt-4">
+            <div class="col-12 text-center">
+                <h2 class="text-center">Os melhores destinos te levam a um só lugar!</h2>
+            </br></br>
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- CARDS DESTINOS -->
+
+    <div class="container ">
+
+        <div class="row">
+            <div class="col-md-6">
+            <img class="img-fluid" src="c:\Users\erica\Downloads\imagens\Salvador.png.png" alt="Salvador">
+
+            </div>
+
+            <div class="col-md-6 text-center">
+                <h2 class="text-center">Salvador</h2>
+                <p class="text-alinhado">
+
+                    Salvador, capital do estado da Bahia, é a primeira capital do país. A cidade está entre as mais antigas do continente americano. 
+                    A sua influência africana torna Salvador com aspecto cultural da cultura afro-brasileira. A capital ainda se torna notável devido a sua culinária, música e arquitetura reconhecidas internacionalmente.
+                </br></br> 
+O centro histórico e o Pelourinho, que reúne edifícios antigos da cidade, são passeios imperdíveis em Salvador, e um bom lugar para começar seu itinerário. Por lá você poderá visitar igrejas, como a Igreja e Convento de São Francisco. </br></br> 
+ O Elevador Lacerda, que liga a Cidade Alta e Cidade Baixa e o Mercado Modelo, tradicional pela venda de lembranças locais, são também passeios próximos que vale a pena fazer.</br></br> </br></br> </p>
+
+            </div>
+        </div>
+        <hr> 
+
+        <div class="row">
+            <div class="col-md-6">
+            <img class="img-fluid" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\itacare.png.png" alt="Itacaré">
+
+            </div>
+
+            <div class="col-md-6 text-center">
+                <h2 class="text-center">Itacaré</h2>
+                <p class="text-alinhado">
+
+                    As praias de Itacaré são os grandes atrativos dos turistas que buscam a cidade. Ao todo, são treze praias principais para conhecer durante a viagem. </br></br>    
+                     Algumas praias de Itacaré são acessíveis de carro e outras por belas trilhas em meio à Mata Atlântica, mas o importante é saber que Itacaré tem praia para todos os gostos.   </br></br>    
+                     As praias de Itacaré são divididas entre praias urbanas e praias rurais. As urbanas têm fácil acesso, estão bem perto do centro da cidade e são sempre mais movimentadas. </br></br>    
+                    Entre as praias urbanas mais preservadas, vale conferir a Praia do Resende, Praia da Tiririca, Praia do Costa e Praia da Ribeira, todas localizadas no Caminho das Praias. Além delas, outra boa pedida é a Praia da Concha, que conta com ampla infraestutura.
+                </p>
+
+            </div>
+        </div>
+        <hr> 
+
+        <div class="row mt-5">
+            <div class="col-md-6">
+                <img class="img-fluid" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\lencois1200.png" alt="Lençóis">
+            </div>
+
+            <div class="col-md-6 text-center">
+                <h2 class="text-center">Lençóis</h2>
+                <p class="text-alinhado">
+                    O conjunto arquitetônico e paisagístico de Lençóis foi tombado, pelo Iphan, em 1973. A cidade situa-se na região centro-oeste da Bahia, em um anfiteatro natural na encosta oriental da Serra do Sincorá. </br></br>
+                    O conjunto é bastante rico e interessante, tendo conservado muito das suas características originais, além de estar situado em uma região de serras, na área do Parque Nacional da Chapada Diamantina, famosa por uma deslumbrante beleza natural.
+                </p>
+            </div>
+        </div>
+        <hr>
+
+        <div class="row mt-5">
+            <div class="col-md-6">
+                <img class="img-fluid" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\feira de sant.jpg" alt="Feira de Santana">
+            </div>
+
+            <div class="col-md-6 text-center">
+                <h2 class="text-center">Feira de Santana</h2>
+                <p class="text-alinhado" >
+                    Feira de Santana, a cativante cidade anexa a Salvador, brilha como uma joia à beira-mar no nordeste do Brasil. Com sua beleza natural deslumbrante e atmosfera acolhedora, a cidade cativa os visitantes desde o momento em que põem os pés em suas areias douradas. 
+                </br></br>
+                    Banhada pelas águas serenas do Oceano Atlântico,Feira oferece um cenário pitoresco, com extensas praias de areia fina e águas mornas, perfeitas para relaxar sob o sol tropical ou se aventurar em esportes aquáticos emocionantes. Além de sua costa deslumbrante, a cidade encanta com sua rica cultura e história. 
+                </br></br>    
+                    Ruas charmosas, praças pitorescas e edifícios históricos testemunham o passado vibrante de Feira de Santana e seu papel na formação da identidade brasileira. Os mercados locais são um convite irresistível para explorar os sabores e aromas da culinária nordestina, enquanto festivais coloridos celebram a música, dança e tradições locais.   
+                </p>
+            </div>
+        </div>
+        <hr>
+
+        <div class="row mt-5">
+            <div class="col-md-6">
+                <img class="img-fluid" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\morrodochapeu.png.png" alt="Morro do Chapéu">
+            </div>
+
+            <div class="col-md-6 text-center">
+                <h2 class="text-center">Morro do Chapéu</h2>
+                <p class="text-alinhado" >
+                 A cidade mais perto do Morro do Chapéu , Chapada Diamantina, Mucugê, fica a 394 km de Salvador e a 146km de Lençóis. 
+                </br></br> 
+                 Paraíso do ecoturismo e dos esportes radicais e importante centro de pesquisas arqueológicas, Morro do Chapéu possui ao seu redor um grande número de sítios de arte rupestre, tais como a Lapa dos Brejões, o Abrigo da Pedreira da Lage, o Abrigo da Cachoeira do Regato e o Abrigo do Manelão. 
+                </br></br> 
+           Está situada a 1.012m de altitude, possui clima ameno durante o dia, mas à noite a temperatura pode cair bastante. Leve agasalho e não se engane com o frio que faz por lá. 
+                </p>
+            </div>
+        </div>
+        <hr>
+
+        <div class="row mt-5">
+            <div class="col-md-6">
+                <img class="img-fluid" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\cachoeira.png.png" alt="Cachoeira">
+             </div>
+
+            <div class="col-md-6 text-center">
+                <h2 class="text-center">Cachoeira</h2>
+                <p class="text-alinhado">
+                    Às margens do Rio Paraguaçu, Cachoeira é uma das cidades baianas que mais preservou a sua identidade cultural e histórica, o que a faz um dos principais roteiros turísticos históricos do estado.
+                </br> </br> 
+                    Localizada a cerca de 130 km da capital do estado Salvador, a cidade recebe o status de “Cidade Monumento Nacional” por abrigar o estilo barroco das suas igrejas e museus. 
+                </br> </br>E é considerada monumento nacional pelo Instituto do Patrimônio Histórico e Artístico Nacional. 
+                </br> </br>A cidade possui clima predominantemente tropical, com estações bem definidas.
+                </p></br></br></br></br>
+            </div> 
+            <hr>   
+        </div>
+
+            <div class="row mt-5">
+                <div class="col-md-6">
+                    <img class="img-fluid" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\juazeiro.png.jpg" alt="Juazeiro">
+                </div>
+   
+                <div class="col-md-6 text-center">
+                    <h2 class="text-center">Juazeiro</h2>
+                    <p class="text-alinhado">
+                        Em conjunto com o vizinho município de Petrolina, em Pernambuco, Juazeiro forma o maior aglomerado urbano do semiárido, localizado na região sub-média da bacia do Rio São Francisco. </br></br> A cidade se destaca pela agricultura irrigada que se firmou na região graças às águas do rio São Francisco. </br></br>
+                        É conhecida como a Terra das Carrancas, figuras antigas usadas pelas embarcações que subiam e desciam o rio São Francisco. Seu nome se origina dos pés de juá ou juazeiro, uma árvore típica da região.
+                    </p></br></br></br></br>
+                </div> 
+                <hr>   
+            </div>
+
+            <div class="row mt-5">
+                <div class="col-md-6">
+                    <img class="img-fluid" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\brumado.png.png" alt="Brumado">
+                </div>
+   
+                <div class="col-md-6 text-center">
+                    <h2 class="text-center">Brumado</h2>
+                    <p class="text-alinhado">
+                        Brumado é um município brasileiro no interior da Bahia, a 555 km da capital Salvador. Conhecida como a "Capital do Minério", possui em seu subsolo uma grande quantidade de minerais, a base de sua economia. A Serra das Éguas é um dos pontos turísticos do município, com suas paisagens montanhosas. 
+                    </br> </br>
+                    O mercado municipal oferece comidas típicas da região, como doces, frutas e cereais; também é onde se encontra os restaurantes de comida caseira e pequenas churrascarias. 
+                    </br> </br> À noite, Os locais mais visitados para quem quer apreciar churrascos, pizzas, lanches e sorvetes ou até mesmo janta, são as praças Heráclito Cardoso e Coronel Zeca Leite.
+                    </p></br></br></br></br>
+                </div> 
+                <hr>   
+            </div>
+
+            <div class="row mt-5">
+                <div class="col-md-6">
+                    <img class="img-fluid" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\ilheus.png" alt="Ilhéus">
+                </div>
+   
+                <div class="col-md-6 text-center">
+                    <h2 class="text-center">Ilhéus</h2>
+                    <p class="text-alinhado">
+                        Em conjunto com o vizinho município de Petrolina, em Pernambuco, Juazeiro forma o maior aglomerado urbano do semiárido, localizado na região sub-média da bacia do Rio São Francisco. </br></br> A cidade se destaca pela agricultura irrigada que se firmou na região graças às águas do rio São Francisco. </br></br>
+                        É conhecida como a Terra das Carrancas, figuras antigas usadas pelas embarcações que subiam e desciam o rio São Francisco. Seu nome se origina dos pés de juá ou juazeiro, uma árvore típica da região.
+                    </p></br></br></br></br>
+                </div> 
+                <hr>   
+            </div>
+            <div class="col-md-6">
+                <h2 class="text-center text-padrao">Cadastro de Destino</h2>
+                <form>
+                    <div class="mb-3">
+                        <label for="nomeDestino" class="form-label">Nome do Destino:</label>
+                        <input type="text" class="form-control" id="nomeDestino" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Cadastrar Destino</button>
+                </form>
+            </div></br></br>
+            <div class="row">
+                <div class="col-md-6">
+                    <h2 class="text-center text-padrao">Cadastro de Cliente</h2>
+                    <form>
+                        <div class="mb-3">
+                            <label for="nomeCliente" class="form-label">Nome:</label>
+                            <input type="text" class="form-control" id="nomeCliente" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="cpfCliente" class="form-label">CPF:</label>
+                            <input type="text" class="form-control" id="cpfCliente" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Cadastrar Cliente</button>
+                    </form></br></br></br></br>
+                </div>       
+                </div>
+                
+                <div class="row">
+        
+                    <div class="col-12">
+        
+                        <div class="accordion" id="accordionExample">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingOne">
+                                    <div class="accordion-item bg-light text-primary"
+                                        data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
+                                        aria-controls="collapseOne">
+                                    </div>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body text-center">
+        
+                                        <img class="img-fluid"
+                                            src="c:\Users\erica\Downloads\bandeirascart.png"
+                                            alt="formas de pagamento">
+        
+                                    </div>
+                                </div>
+                            </div>
+        
+                        </div></br></br>
+                
+                        <footer id="rodape">        
+                            <p>Copyright &copy; 2023 • Agência Destinos Bahia </br>
+                            <a href="#" target="_blank" style="text-decoration:none"> Facebook </a> | <a href="#" target="_blank" style="text-decoration:none"> Twitter </a> |
+                            <a href="termosdeuso.html" target="_blank" style="text-decoration:none"> Termos de Uso </a>
+                            </p> 
+                        </footer>
+                    </body>
+                    </html>
