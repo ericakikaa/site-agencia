@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> <h1> Agência Destinos Bahia <h1> </title>
+        <link rel="icon" type="image/x-icon" href="im"/>
+        <img src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\itacarecontato.png.png" id="foto"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    
+  
+</head>
+
+<body>
+    <div class="container-fluid" id="interface">
+
+<!--inicio navbar-->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="C:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\home.html">Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Alterna navegação">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link " href="destinosba.html">Destinos</a>
+        <a class="nav-item nav-link" href="promoçoes.html">Promoções</a>
+        <a class="nav-item nav-link" href="C:\Users\erica\OneDrive\Documentos\DestinosBahia\index.html\cadastro.html">Cadastro</a>
+        <a class="nav-item nav-link active" href="C:\Users\erica\OneDrive\Documentos\DestinosBahia\index.html\contato.html">Contato <span class="sr-only"> </span></a>     
+      </div>
+    </div>
+  </nav>
+
+<!--final navbar-->
+  </header></br></br> 
+    
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Email</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+          </div>
+          <div class="mb-3">
+            <label for="exampleFormControlTextarea1" class="form-label">Mensagem</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+    
+    <footer id="rodape">        
+        <p>Copyright &copy; 2023 • Agência Destinos Bahia </br>
+        <a href="#" target="_blank" style="text-decoration:none"> Facebook </a> | <a href="#" target="_blank" style="text-decoration:none"> Twitter </a> | <a href="termosdeuso.html" target="_blank" style="text-decoration:none"> Termos de Uso </a> 
+      </footer>
+</body>
+</html>
