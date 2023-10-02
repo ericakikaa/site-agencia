@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agência Destinos Bahia</title>
+    <link rel="icon" type="image/x-icon" href="_imagens/agencia-viaja-brasil.webp"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="_css/estilo.css"/>
+    
+</head>
+<script language="javascript" src="_javascript/funcoes.js"></script>
+<body>
+<!--inicionavbar-->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="C:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\home.html">Home</a>
+    <a class="navbar-brand" href="destinosba.html"> Destinos</a>
+    <a class="navbar-brand" href="promoçoes.html">Promoções</a>
+    
+    <div class="navbar-nav">
+        <a class="nav-item nav-link" href="cadastro.html">Cadastro</a>
+        <a class="nav-item nav-link active" href="contato.html">Contato <span class="sr-only"> </span></a>
+        
+      <div>
+    </div>
+  </nav>
+<!--final navbar-->
+
+
+    <header id="cabecalho-secundario">
+        <h1>Agência Destinos Bahia </h1>
+        <h2>Aventuras emocionantes esperam por você e por sua família! </h2>
+        <br> <h3> <i> Confira nossas Promoções! </i> </h3> </header> 
+      
+
+    </header></br></br>
+        <div class="container-fluid" id="interface">
+
+    <main style="width: 90%; margin: auto;">   
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\familia.png.png" alt="diversão para a família">
+            <div class="card-body">
+            <h5 class="card-title">Promoções para a Família</h5>
+            <p class="card-text">Os melhores destinos para você aproveitar junto com a sua família.</p>
+            <a href="../Atividade Prática do Módulo 2/contato.html" class="btn btn-primary">Saiba mais</a>
+            </div>
+        </div>
+
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\aventura.png.png" alt="aventuras">
+            <div class="card-body">
+            <h5 class="card-title">Para Aventureiros</h5>
+            <p class="card-text">Os melhores lugares da Bahia pra você explorar, como o Morro do Chapéu, um cantinho exclusivo para desbravadores.</p>
+            <a href="../Atividade Prática do Módulo 2/contato.html" class="btn btn-primary">Saiba mais</a>
+            </div>
+        </div>
+
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="c:\Users\erica\OneDrive\Área de Trabalho\Atividade Prática do Módulo 2\_imagens\lua de mel.png.png" alt="Lua de Mel">
+            <div class="card-body">
+            <h5 class="card-title">Lua de Mel</h5>
+            <p class="card-text">Passagem + hotel com café da manhã incluso, para você e seu amor aproveitarem as belíssimas paisagens do Nordeste brasileiro.</p>
+            <a href="../Atividade Prática do Módulo 2/contato.html" class="btn btn-primary">Saiba mais</a>
+            </div>
+        </div>  
+    </main>
+    <div class="b-example-divider"></div><br><br><br>
+
+    <footer id="rodape">        
+        <p>Copyright &copy; 2023 • Agência Destinos Bahia </br>
+        <a href="#" target="_blank" style="text-decoration:none"> Facebook </a> | <a href="#" target="_blank" style="text-decoration:none"> Twitter </a> |
+         <a href="termosdeuso.html" target="_blank" style="text-decoration:none"> Termos de Uso </a>
+        </p> 
+    </footer>
+    </body>
+    </html>
